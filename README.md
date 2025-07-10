@@ -1,5 +1,5 @@
 # R-linear-regression
-This is a work from stadistics
+Tarea de estadística
 
 ##### A continuación se muestran los consumos anuales de productos derivados del pollo (en millones de libras) en Estados Unidos, entre los años 1995 y 2002:
 <p align="center"> 25.9 26.8 27.3 27.8 29.6 30.5 30.8 32.6 </p>
