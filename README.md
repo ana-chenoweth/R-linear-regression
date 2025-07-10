@@ -6,13 +6,13 @@ This is a work from stadistics
 <br>
 <ul>
   <li>Ecuación de regresión lineal estimada.</li>
-    <img src="img/ecuacion-problema1.png" alt="Pearson problema 1" width="400">
+    <img src="img/ecuacion-problema1.png" alt="Pearson problema 1" width="400"><br>
       Por cada año los consumos anuales de productos derivados del pollo en Estados Unidos
       aumentan 0.93 millones de libras.
   <li>Diagrama de dispersión con la ecuación de regresión obtenida</li>
     <img src="img/diagrama-problema1.png" alt="Diagrama problema 1" width="400">
   <li>Coeficiente de correlación lineal de Pearson.</li>
-    <img src="img/pearson1.png" alt="Pearson problema 1" width="400">
+    <img src="img/pearson1.png" alt="Pearson problema 1" width="400"><br>
     Este valor es muy cercano al uno por lo que indica una correlación lineal muy alta, e indica una relación lineal positiva
 </ul>
 
@@ -60,7 +60,7 @@ This is a work from stadistics
   <li> Diagrama de dispersión con la la ecuación de regresión obtenida</li>
   <img src="img/diagrama-problema2.png" alt="Diagrama problema 2" width="400">
   <li> Coeficiente de correlación lineal de Pearson</li>
-  <img src="img/pearson2.png" alt="Pearson problema 2" width="400">
+  <img src="img/pearson2.png" alt="Pearson problema 2" width="400"><br>
   Este valor es muy cercano al uno aunque no tanto como la anterior esta también indica una correlación lineal muy alta, e indica una relación lineal positiva.
   
 
@@ -150,12 +150,12 @@ This is a work from stadistics
 
 <ul>
 <li> Ecuación de regresión lineal estimada.</li>
-      <img src="img/ecuacion-problema3.png" alt="Ecuacion problema 3" width="400">
+      <img src="img/ecuacion-problema3.png" alt="Ecuacion problema 3" width="400"><br>
       Por cada peso que aumenten los niños aumenta en 3.28 su talla
 <li> Diagrama de dispersión con la ecuación de regresión lineal estimada.</li>
     <img src="img/diagrama-problema3.png" alt="Diagrama problema 3" width="400">
 <li> Coeficiente de correlación lineal de Pearson.</li>
-  <img src="img/pearson3.png" alt="Pearson problema 3" width="400">
+  <img src="img/pearson3.png" alt="Pearson problema 3" width="400"><br>
   Este valor es muy cercano al uno aunque no tanto como las anteriores esta también indica una correlación lineal muy alta, e indica una relación lineal positiva.
 </ul>
 
